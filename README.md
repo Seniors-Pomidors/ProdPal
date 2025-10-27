@@ -129,7 +129,7 @@
 
 <h2 align="left" id="stocktaking-stack">🦢 ER-диаграмма</h2>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mariya268/test_repository/main/images/prodpal_erd.png" 
+  <img src="https://raw.githubusercontent.com/Seniors-Pomidors/ProdPal/develop/images/prodpal_erd.png" 
        alt="ProdPal ERD" 
        width="400">
 </p>
@@ -137,7 +137,12 @@
 ---
 
 <h2 align="left" id="stocktaking-stack">🦜 UseCase-диаграмма</h2>
-<em>пока пусто</em>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Seniors-Pomidors/ProdPal/develop/images/usecased.jpg" 
+       alt="Usecase Dg" 
+       width="800">
+</p>
+
 
 ---
 <h2 align="left" id="stocktaking-stack">🐣 Инструкция</h2>
