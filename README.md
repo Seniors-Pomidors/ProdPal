@@ -4,14 +4,6 @@
 **ProductivityPal** — AI-помощник для умного общения и управления задачами. Это интеллектуальный мессенджер, который не просто объединяет людей, но и помогает работать эффективнее. Система анализирует переписки, автоматически организует информацию и значительно упрощает коммуникацию в разных сферах жизни.
 
 ---
-<h2 align="left" id="stocktaking-stack">📚 Документация</h2>
-<em>пока пусто</em>
-
----
-<h2 align="left" id="stocktaking-stack">📑 Структура документации</h2>
-<em>пока пусто</em>
-
----
 <h2 align="left" id="stocktaking-reps">🚄 Наши репозитории</h2>
 
 | Репозиторий | Описание |
@@ -22,7 +14,6 @@
 | [4. `Backend`](https://github.com/Seniors-Pomidors/Backend) | Back web-приложения |
 
 ---
-
 <h2 align="left" id="stocktaking-stack">🛫 Стек технологий</h2>
 
 > Frontend
@@ -64,12 +55,6 @@
       </a>
       <br>PostgreSQL
     </td>
-    <td align="center" width="110" height="90">
-      <a href="#stocktaking-stack">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" width="36" height="36" alt="Redis" />
-      </a>
-      <br>Redis
-    </td>
   </tr>
 </table>
 
@@ -98,12 +83,6 @@
   <tr>
     <td align='center' width='110' height='90'>
       <a href='#stocktaking-stack'>
-        <img src='https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg' width='36' height='36' alt='Docker'>
-      </a>
-      <br>Docker
-    </td>
-    <td align='center' width='110' height='90'>
-      <a href='#stocktaking-stack'>
         <img src="https://raw.githubusercontent.com/mariya268/test_repository/main/images/websocket.png"
         width='36' height='36' alt='WebSocket'>
       </a>
@@ -114,7 +93,7 @@
 
 ---
 
-<h2 align="left" id="stocktaking-stack">🦦 Уникальные функции</h2>
+<h2 align="left" id="stocktaking-stack">🦦 Уникальные функции (в разработке)</h2>
 
 1. Умные папки и авто-тегирование.
 2. AI-анализ настроения и рекомендации (можно будет отключить).
@@ -142,8 +121,3 @@
        alt="Usecase Dg" 
        width="800">
 </p>
-
-
----
-<h2 align="left" id="stocktaking-stack">🐣 Инструкция</h2>
-<em>пока пусто</em>
