@@ -14,6 +14,11 @@
 | [4. `Backend`](https://github.com/Seniors-Pomidors/Backend) | Back web-приложения |
 
 ---
+<h2 align="left" id="instructions">📖 Инструкция по использованию</h2>
+
+Ссылка на наш мессенджер: [ProductivityPal](https://prodpal-frontend.onrender.com/)
+
+---
 <h2 align="left" id="stocktaking-stack">🛫 Стек технологий</h2>
 
 > Frontend
